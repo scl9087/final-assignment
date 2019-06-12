@@ -1,0 +1,7 @@
+{
+    "name": "<name-for-your-project>",
+    "builds": [
+        { "src": "*.html", "use": "@now/static" },
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}
