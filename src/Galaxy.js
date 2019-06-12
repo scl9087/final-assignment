@@ -1,4 +1,4 @@
-import React from 'react';
+import React from '../node_modules/react';
 import Planet from './Planet';
 
 class Galaxy extends React.Component {

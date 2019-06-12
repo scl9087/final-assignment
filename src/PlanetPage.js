@@ -1,4 +1,4 @@
-import React from 'react';
+import React from '../node_modules/react';
 import CharacterList from './CharacterList';
 
 class PlanetPage extends React.Component {

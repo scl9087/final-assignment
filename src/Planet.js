@@ -1,6 +1,6 @@
-import React from 'react';
+import React from '../node_modules/react';
 import PlanetImages from './PlanetImages';
-import {BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch, Link} from '../node_modules/react-router-dom';
 
 class Planet extends React.Component {
 

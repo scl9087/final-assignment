@@ -1,6 +1,6 @@
-import React from 'react';
+import React from '../node_modules/react';
 import './App.css';
-import {BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch, Link} from '../node_modules/react-router-dom';
 import Galaxy from './Galaxy';
 import PlanetPage from './PlanetPage';
 import logo from './logo.png';
