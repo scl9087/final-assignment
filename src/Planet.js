@@ -28,7 +28,7 @@ class Planet extends React.Component {
             <li key={location.id} className="list-item">
                 <Link to={`/location/${location.id}`}>
                 <div className="planet-img">
-                    <img src={`/img/${location.id}-planet.png`} alt={`${location.id}. ${location.name}`} 
+                    <img src={`img/${location.id}-planet.png`} alt={`${location.id}. ${location.name}`} 
                     onMouseEnter={this.handleMouseHover}
                     onMouseLeave={this.handleMouseHover}/>
                 </div>
