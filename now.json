@@ -1,4 +1,5 @@
 {
+    "version": 2,
     "name": "rick-and-morty-galaxy",
     "builds": [
         { "src": "*.html", "use": "@now/static" },
